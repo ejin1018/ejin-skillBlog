@@ -1,9 +1,10 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: e jin
+date: 2023-01-16
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+github <https://github.com/ejin1018>
+e-mail <wwijin95@gmail.com>

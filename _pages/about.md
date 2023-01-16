@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: e jin
+date: 2023-01-16
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+정이진의 스킬블로그 입니다.
