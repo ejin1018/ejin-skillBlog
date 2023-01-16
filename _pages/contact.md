@@ -6,5 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-github <https://github.com/ejin1018>
+github <https://github.com/ejin1018>         
 e-mail <wwijin95@gmail.com>
